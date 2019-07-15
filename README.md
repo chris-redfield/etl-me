@@ -6,14 +6,15 @@ busca por uma solução ideal para gestão dos fluxos de dados no Ministério da
 
 Obrigatórios
 * Agendamento de jobs
-* Visualização dos pipeline de dados com ordem de execução
 * Visualização de estado dos jobs e estatísticas de sucesso
+* Versionamento dos jobs
 * Fácil manutenção
-* Execução de jobs de maneira distribuída e remota
-* Trabalhar com qualquer formato de acesso e dados (ex: SFTP da UBER, MQUEUE
+* Fácil configuração execução de jobs de maneira distribuída e remota
+* Trabalhar com qualquer formato de acesso e dados (ex: SFTP, mqeue etc)
 
 Desejáveis
 * Não necessitar licença para utilização / manutenção da ferramenta
+* Visualização dos pipeline de dados com ordem de execução
 * Solução amplamente utilizada na comunidade
 
 ## Soluções pesquisadas:
