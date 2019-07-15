@@ -1,28 +1,35 @@
-# Análise ferramentas ETL
+---
 
-busca por uma solução ideal para gestão dos fluxos de dados no Ministério da Economia.
 
-## Critérios de seleção
+---
 
-Obrigatórios
-* Agendamento de jobs
-* Visualização de estado dos jobs e estatísticas de sucesso
-* Versionamento dos jobs
-* Fácil manutenção
-* Fácil configuração execução de jobs de maneira distribuída e remota
-* Trabalhar com qualquer formato de acesso e dados (ex: SFTP, mqeue etc)
+<h1 id="análise-ferramentas-etl">Análise ferramentas ETL</h1>
+<p>busca por uma solução ideal para gestão dos fluxos de dados no Ministério da Economia.</p>
+<h2 id="critérios-de-seleção">Critérios de seleção</h2>
+<p>Obrigatórios</p>
+<ul>
+<li>Agendamento de jobs</li>
+<li>Visualização de estado dos jobs e estatísticas de sucesso</li>
+<li>Versionamento dos jobs</li>
+<li>Fácil manutenção</li>
+<li>Fácil configuração execução de jobs de maneira distribuída e remota</li>
+<li>Trabalhar com qualquer formato de acesso e dados (ex: SFTP, mqeue etc)</li>
+</ul>
+<p>Desejáveis</p>
+<ul>
+<li>Não necessitar licença para utilização / manutenção da ferramenta</li>
+<li>Visualização dos pipeline de dados com ordem de execução</li>
+<li>Solução amplamente utilizada na comunidade</li>
+</ul>
+<h2 id="soluções-pesquisadas">Soluções pesquisadas:</h2>
+<ol>
+<li>SQL Server Integration Services</li>
+<li>Informatica PowerCenter</li>
+<li>Pentaho Data Integration</li>
+<li>Apache Airflow</li>
+<li>Talend Open Studio</li>
+</ol>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
 
-Desejáveis
-* Não necessitar licença para utilização / manutenção da ferramenta
-* Visualização dos pipeline de dados com ordem de execução
-* Solução amplamente utilizada na comunidade
-
-## Soluções pesquisadas:
-
-1. SQL Server Integration Services
-2. Informatica PowerCenter
-3. Pentaho Data Integration
-4. Apache Airflow
-5. Talend Open Studio
-
-> Written with [StackEdit](https://stackedit.io/).
