@@ -25,4 +25,30 @@ Desejáveis
 4. Apache Airflow
 5. Talend Open Studio
 
+### Sobre os critérios de seleção
+
+-   Agendamento de jobs: A ferramenta possui feature nativa, ou fácil de instalar de agendamento de jobs ?
+
+ - Solução amplamente utilizada na comunidade: baseado em uma pesquisa no google trends em 15/07/2019.
+
+![google-trends](https://raw.githubusercontent.com/chris-redfield/etl-me/master/img/google-trends-etl.PNG)
+
+## Resultados
+
+|                                                           | SQL Server Integration Services | Informatica PowerCenter | Pentaho Data Integration | Apache Airflow | Talend Open Studio |
+|-----------------------------------------------------------|---------------------------------|-------------------------|--------------------------|----------------|--------------------|
+| Agendamento de jobs                                       | 1                               | 1                       | 1                        | 1              | 1                  |
+| Visualização de estado dos jobs e estatísticas de sucesso | 1                               | 1                       | 1                        | 1              | 1                  |
+| Fácil versionamento do código dos jobs / nativo           | 0                               | 1                       | 1                        | 1              | 1                  |
+| Fácil manutenção                                          | 0                               | 0                       | 0                        | 0              | 0                  |
+| Fácil execução de jobs de forma distribuída               | 0                               | 0                       | 1                        | 1              | 0,5                |
+| Qualquer formato de acesso e dados                        | 1                               | 1                       | 1                        | 1              | 1                  |
+| Não necessitar licença                                    | 0                               | 0                       | 0,25                     | 0,5            | 0,25               |
+| Visualização dos pipelines de dados com ordem de execução | 0,5                             | 0,5                     | 0,5                      | 0,5            | 0,5                |
+| Comunidade Grande                                         | 0,5                             | 0                       | 0,5                      | 0,5            | 0                  |
+| __Total__                                                     | 4,00                            | 4,50                    | 6,25                     | 6,50           | 5,25               |
+|                                                           |                                 |                         |                          |                |                    |
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
